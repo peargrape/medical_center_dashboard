@@ -1,13 +1,13 @@
-# Дашборд по работе медицинского центра на Yandex Datalens (тестовое задание) 
+Дашборд по работе медицинского центра на Yandex Datalens (тестовое задание) 
 ==========================================================  
 
 [Ссылка на дашборд](https://datalens.yandex.ru/tk4v5yp7ex6wi-svodnyy-dashbord)  
 
 ![Dashboard](https://github.com/peargrape/medical_center_dashboard/blob/main/pics/Dashboard.png "Dashboard")  
 
-Данный дашборд был построен на основе [таблицы](src\task_for_analyst.xlsx) в соответствии с [техзаданием](src\task_description.jpg): 
+Данный дашборд был построен на основе [таблицы](https://github.com/peargrape/medical_center_dashboard/blob/main/src/task_for_analyst.xlsx) в соответствии с [техзаданием](https://github.com/peargrape/medical_center_dashboard/blob/main/src/task_description.jpg): 
 
-![Task](src\task_description.jpg)  
+![Task](https://github.com/peargrape/medical_center_dashboard/blob/main/src/task_description.jpg)  
 
 
 Для выполнения задания требовалось выполнить следующие действия:  
@@ -27,19 +27,19 @@
 В интернете имеется немало материалов о том, как построить свой первый дашбор, мне попался [вот этот](https://vc.ru/u/178354-petr-zagrebelnyy/720264-sozdaem-krutoy-finansovyy-otchet-na-osnove-vypiski-iz-tinkof-za-pol-chasa), его и рекомендую (подробная инструкция от и до вместо тысячи слов и долгих часов видео).
 Также не могу не посоветовать [статью о функциях](https://cloud.yandex.ru/docs/datalens/function-ref/all) из справочника Yandex Cloud, материал изложен понятно и с примерами. Из неожиданного - наввание функции необходимо прописывать в специальном поле, а формула пишется сразу, без знака "равно".  
 
-![Function](pics\Function.png "Function")
+![Function](https://github.com/peargrape/medical_center_dashboard/blob/main/pics/Function.png "Function")
 
 ## 1. Трансформация таблиц  
 
 Поскольку исходные таблицы представлены в не подходящем для работы с Datalens формате,  
 
-![Cons_table](pics\Cons_table.png)  
+![Cons_table](https://github.com/peargrape/medical_center_dashboard/blob/main/pics/Cons_table.png)  
 
-![Sales_table](pics\sales_table.png)  
+![Sales_table](pics/sales_table.png)  
 
-![sales_indicators](pics\sales_indicators.png)  
+![sales_indicators](pics/sales_indicators.png)  
 
-![hypo](pics\hypo.png)
+![hypo](pics/hypo.png)
 
 
 их пришлось трансформировать и сохранить в .csv ([смотреть в папке](csv)).  
