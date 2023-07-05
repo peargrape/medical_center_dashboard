@@ -3,7 +3,7 @@
 
 [Ссылка на дашборд](https://datalens.yandex.ru/tk4v5yp7ex6wi-svodnyy-dashbord)  
 
-![Dashboard](pics\Dashboard.png "Dashboard")  
+![Dashboard]([pics\Dashboard.png](https://github.com/peargrape/medical_center_dashboard/blob/main/pics/Dashboard.png) "Dashboard")  
 
 Данный дашборд был построен на основе [таблицы](src\task_for_analyst.xlsx) в соответствии с [техзаданием](src\task_description.jpg): 
 
