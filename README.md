@@ -44,7 +44,7 @@
 
 их пришлось трансформировать и сохранить в .csv ([смотреть в папке](csv)).  
 
-Наиболее ценная информация находится в таблице [`св_табл.csv`](csv\св_табл.csv):  
+Наиболее ценная информация находится в таблице [`св_табл.csv`](csv/св_табл.csv):  
 
 **Столбец**|**Описание**|**Тип**
 -----|-----|-----
@@ -57,7 +57,7 @@
 сумма|Итоговая сумма дохода или расхода по данной позиции|Fractional number  
 <br>  
 
-![Main_table](pics\main_table.png)  
+![Main_table](pics/main_table.png)  
 
 Сама долгая и важная работа сделана, ура!  
 
@@ -75,27 +75,27 @@
 
 - **Доход** - отражает доходы, расходы и прибыль организации в целом.
 
-![Profit](pics\Profit.png)  
+![Profit](pics/Profit.png)  
 
 - **Доходы и расходы объектов**  
 
-![object_spend_profit](pics\obj_spend_profit.png)
+![object_spend_profit](pics/obj_spend_profit.png)
 
 - **Выполнение плана по отделам**  
 
-![plan_dept](pics\plan_dept.png)  
+![plan_dept](pics/plan_dept.png)  
 
 - **Показатели продаж** отражают выполнение планов различных этапов продаж  
 
-![sales_ind](pics\sales_ind.png)
+![sales_ind](pics/sales_ind.png)
 
 - **Доходы от юрлиц и физлиц**  
 
-![phys_ent](pics\phys_entity.png)  
+![phys_ent](pics/phys_entity.png)  
 
 - **Средняя цена услуг** - график с логарифмической шкалой Y, т.к. у нас имеется "выброс" по здравпункту.
 
-![avg_price](pics\avg_price.png)  
+![avg_price](pics/avg_price.png)  
 
 ## 4. Построение дашборда, настройка селекторов  
 
